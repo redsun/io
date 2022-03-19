@@ -45,7 +45,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'imooc.me',
+  'localhost:4000',
 
   
 
